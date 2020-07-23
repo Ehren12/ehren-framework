@@ -1,9 +1,27 @@
-# ehren-framework
+# ehren-frameworkto 
 
-This CSS framework is really lovely solving the issue of getting a css library and not knowing what class names to use when styling your page.
-It uses very simple, yet powerful, class names to acheive that beutiful design you want. For example I can change a buttons color by adding the class "green" just to make the button
-green.
+Hello this project is one designed for those who use css frameworks a lot and have sometimes found a lot of problems in them like sometimes not being able to either customize it to how you want or just make it "yours" in general. My vision for this app is for developers to freely express themselves though their styles and designs and I know that the only way we can do that through CSS.
 
-This Project is still in its developer beta for now so pls be the first to try it and please give me your feedback. If u want u can add or customize the framework.
+FEATURES
 
-Leave your thoughts Thank you!
+I feel like one of the only ways I can show you what this app is truly made of is to show you its cool features.
+
+* Full on customizability for users
+* Ability To add Neomorphism into your desgings
+* Easy to use class names for end users
+* Clean animations.
+* Easy Dark Mode for users
+* An Example App showcase.
+* Ability to work well with other ".css" files.
+* Full on compatibility with any language be it React, Angular or Vue.
+          *****PLEASE NOT THAT SOME OF THE FEATURES LISTED MAY NOT WORK AS ITS A DEVELOPER BETA WHICH MEANS ITS MAINLY FOR THOSE WHO WANT COLLABORATE AND JOIN THE PRODUCTION*****
+
+INSTALLATION
+
+This current version is version 1.0.1 Alpha
+
+It can be installed by simply cloning the repository onto your computer.
+
+ARCHITECTURE
+
+Well in simple terms this framework is pre styled css already.
