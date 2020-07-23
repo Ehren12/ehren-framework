@@ -1,4 +1,4 @@
-# ehren-frameworkto 
+# ehren-framework 
 
 Hello this project is one designed for those who use css frameworks a lot and have sometimes found a lot of problems in them like sometimes not being able to either customize it to how you want or just make it "yours" in general. My vision for this app is for developers to freely express themselves though their styles and designs and I know that the only way we can do that through CSS.
 
